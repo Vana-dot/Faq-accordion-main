@@ -10,6 +10,6 @@ Projeto desenvolvido do desafio frontend mentor que se tratar de um FAQ accordio
 
 ### **REALIDADE**
 
-![Projeto](./assets/images/printTela.png)
+![Projeto](./assets/images/printDeTela.png)
 
 **Have fun building!** 🚀👩🏽‍💻​
